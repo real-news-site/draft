@@ -2,8 +2,7 @@
 <HTML lang='en'>
 <HTML>
   <head>
-    <title>
-    </title>
+    <title>Title</title>
   </head>
   <body>
     <div class = 'topbar'>
