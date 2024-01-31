@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <HTML lang='en'>
 <HTML>
-  <head>
-    <title>Title</title>
-  </head>
+  <head>Title</head>
   <body>
     <div class = 'topbar'>
       <Nav>
