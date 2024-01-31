@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <HTML lang='en'>
 <HTML>
-  <head>Title</head>
+  <head>
+    <h1>Title</h1>
+  </head>
   <body>
     <div class = 'topbar'>
       <Nav>
@@ -21,11 +23,11 @@
       </h2>
     </div>
     <div class = 'news'>
-      <h1>Recent Climate News</h1>
-      <h2>
+      <h2>Recent Climate News</h2>
+      <h3>
         <div class = 'slides'>
           <div class = 'slide1'>
-      </h2>
+      </h3>
     <div class = 'column1'>
       <h1 align = 'center'></h1>
   </body>
